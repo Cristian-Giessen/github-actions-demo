@@ -2,11 +2,11 @@
     "name": "github-actions-demo",
     "version": "1.0.0",
     "description": "Demo project",
-    "main": "indec.js",
+    "main": "index.js",
     "scripts": {
         "test": "echo \"Running tests...\" && exit 0"
     },
     "keywords": [],
     "author": "",
-    "liecense": "ISC"
+    "license": "ISC"
 }
